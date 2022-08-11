@@ -3,5 +3,6 @@ Compatible with *bash* and *zsh*. `pacman.sh` is intended exclusively for Arch L
 
 ## Setup
 `git clone --recursive https://github.com/sebdybowski/dotfiles.git ~/.sd`
+
 `source "$HOME/.sd/init.sh"`
 
