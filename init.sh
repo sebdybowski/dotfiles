@@ -2,6 +2,8 @@
 
 DIR=$(dirname "$0")
 
+source "${DIR}/colors.sh"
+
 # Dev
 source "${DIR}/nvm.sh"
 source "${DIR}/ls.sh"
