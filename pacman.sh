@@ -14,4 +14,3 @@ alias yin="yay -S --noconfirm"
 alias yun="yay -Rs"
 alias ypr="yay -Rcns"
 alias yls="yay -Qm"
-
