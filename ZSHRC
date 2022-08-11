@@ -1,0 +1,1 @@
+source /home/seb/.sd/init.sh
