@@ -7,8 +7,8 @@ gsb() {
     echo '[sd] Submitted changes!'
 }
 
-alias gcm="git add -A && git commit -m $($1)"
-alias grb="git rebase -i HEAD~$($1)"
-alias gnb="git checkout -b $($1)"
+alias gcm="git add -A && git commit -m"
+alias grb="git rebase -i HEAD~"
+alias gnb="git checkout -b"
 
 alias g="echo $($1)"
