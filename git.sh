@@ -1,10 +1,25 @@
 #! /bin/bash
 
+PREFIX="[sd]"
+
+__error() {
+    echo "${RED}${PREFIX} Error...${NOCOLOR}"
+}
+
+__success() {
+    echo "${GREEN}${PREFIX} Success!${NOCOLOR}"
+}
+
 gsb() {
-    git add -A
-    git commit -m $1
-    git push origin HEAD
-    echo "${GREEN}[sd] Submitted changes!${NOCOLOR}"
+    if
+        git add -A &&
+        git commit -m $1 &&
+        git push origin HEAD
+    then
+        __success
+    else
+        __error
+    fi
 }
 
 grb() {
