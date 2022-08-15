@@ -14,3 +14,4 @@ source "${DIR}/pacman.sh"
 
 # Utils
 source "${DIR}/draw.sh"
+source "${DIR}/gogh.sh"
