@@ -29,5 +29,6 @@ grb() {
 alias gcm="git add -A && git commit -m"
 alias gnb="git checkout -b"
 alias gps="git push origin HEAD"
+alias gpl="git pull origin HEAD"
 alias grs="git reset --hard"
 
