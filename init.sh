@@ -1,17 +1,20 @@
 #! /bin/bash
 
-DIR=$(dirname "$0")
+__HOME_DIR=$(dirname "$0")
 
-source "${DIR}/colors.sh"
+source "${__HOME_DIR}/colors.sh"
 
 # Dev
-source "${DIR}/nvm.sh"
-source "${DIR}/ls.sh"
-source "${DIR}/git.sh"
+source "${__HOME_DIR}/nvm.sh"
+source "${__HOME_DIR}/ls.sh"
+source "${__HOME_DIR}/git.sh"
 
-# Arch
-source "${DIR}/pacman.sh"
+# Package management
+source "${__HOME_DIR}/pacman.sh"
+source "${__HOME_DIR}/dnf.sh"
+source "${__HOME_DIR}/apt.sh"
 
 # Utils
-source "${DIR}/draw.sh"
-source "${DIR}/gogh.sh"
+source "${__HOME_DIR}/draw.sh"
+source "${__HOME_DIR}/gogh.sh"
+
