@@ -1,5 +1,11 @@
 # Seb Dybowski's dotfiles
-Compatible with *bash* and *zsh*. `pacman.sh` is intended exclusively for Arch Linux.
+Compatible with *[bash](https://www.gnu.org/software/bash/)* and *[zsh](https://zsh.sourceforge.io/Doc/)*. 
+
+Supported package managers:
+
+- `apt` - [Debian](https://www.debian.org/) / [Ubuntu](https://ubuntu.com/)
+- `dnf` - [Fedora](https://getfedora.org/) / [RHEL](https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux)
+- `pacman` - [Arch Linux](https://archlinux.org/) / [Manjaro](https://manjaro.org/) / [EndeavourOS](https://endeavouros.com/)
 
 ## Setup
 ### Install script
