@@ -1,13 +1,13 @@
 #! /bin/bash
 
-PREFIX="[sd]"
+SD_PREFIX="[sd]"
 
 __error() {
-    echo "${RED}${PREFIX} Error...${NOCOLOR}"
+    echo "${RED}${SD_PREFIX} Error...${NOCOLOR}"
 }
 
 __success() {
-    echo "${GREEN}${PREFIX} Success!${NOCOLOR}"
+    echo "${GREEN}${SD_PREFIX} Success!${NOCOLOR}"
 }
 
 gsb() {
@@ -29,3 +29,6 @@ grb() {
 alias gcm="git add -A && git commit -m"
 alias gnb="git checkout -b"
 alias gps="git push origin HEAD"
+alias gpl="git pull origin HEAD"
+alias grs="git reset --hard"
+
