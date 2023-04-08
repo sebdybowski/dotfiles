@@ -17,4 +17,5 @@ source "${__HOME_DIR}/dnf.sh"
 
 # Utils
 source "${__HOME_DIR}/draw.sh"
+source "${__HOME_DIR}/nvim.sh"
 # source "${__HOME_DIR}/gogh.sh"
