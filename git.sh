@@ -31,4 +31,6 @@ alias gnb="git checkout -b"
 alias gps="git push origin HEAD"
 alias gpl="git pull origin HEAD"
 alias grs="git reset --hard"
+alias gcl="git clone"
+alias gst="git status"
 
