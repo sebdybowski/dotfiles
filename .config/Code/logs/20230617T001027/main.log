@@ -1,5 +1,0 @@
-2023-06-17 00:10:27.642 [info] update#setState idle
-2023-06-17 00:10:35.494 [warning] No ptyHost heartbeat after 6 seconds
-2023-06-17 00:10:47.335 [error] [UtilityProcessWorker]: terminated unexpectedly with code 15, signal: unknown
-2023-06-17 00:10:47.336 [error] [UtilityProcess id: 1, type: fileWatcher, pid: 29902]: crashed with code 15 and reason 'killed'
-2023-06-17 00:10:47.342 [info] Extension host with pid 29917 exited with code: 0, signal: unknown.

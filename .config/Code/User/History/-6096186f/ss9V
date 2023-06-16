@@ -1,6 +1,0 @@
-[submodule ".scripts"]
-	path = .scripts
-	url = https://github.com/sebdybowski/scripts.git
-[submodule ".slimzsh"]
-	path = .slimzsh
-	url = https://github.com/changs/slimzsh.git
