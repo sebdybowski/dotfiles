@@ -1,0 +1,8 @@
+2023-06-16 22:51:54.969 [info] Started initializing default profile extensions in extensions installation folder. file:///home/seb/.vscode/extensions
+2023-06-16 22:51:55.268 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/seb/.vscode/extensions
+2023-06-16 22:51:58.154 [info] [perf] Render performance baseline is 49ms
+2023-06-16 22:52:43.963 [info] [perf] Render performance baseline is 44ms
+2023-06-16 23:28:48.002 [info] [perf] Render performance baseline is 48ms
+2023-06-16 23:31:02.755 [warning] [lifecycle] onBeforeShutdown is taking a long time, pending operations: veto.backups
+2023-06-16 23:31:03.099 [info] [lifecycle]: Shutdown was prevented by final veto (id: veto.backups)
+2023-06-16 23:38:18.731 [info] [perf] Render performance baseline is 35ms

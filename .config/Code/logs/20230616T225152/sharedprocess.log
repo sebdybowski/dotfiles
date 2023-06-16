@@ -1,0 +1,77 @@
+2023-06-16 22:51:55.201 [info] Started initializing default profile extensions in extensions installation folder. file:///home/seb/.vscode/extensions
+2023-06-16 22:51:55.402 [warning] Failed to create default profile extensions manifest in extensions installation folder. file:///home/seb/.vscode/extensions Unable to create file 'vscode-userdata:/home/seb/.vscode/extensions/extensions.json' that already exists when overwrite flag is not set
+2023-06-16 22:51:55.402 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/seb/.vscode/extensions
+2023-06-17 00:07:27.762 [info] Getting Manifest... tinkertrain.theme-panda
+2023-06-17 00:07:27.775 [info] Installing extension: tinkertrain.theme-panda
+2023-06-17 00:07:29.991 [info] Extension signature is verified: tinkertrain.theme-panda
+2023-06-17 00:07:30.077 [info] Extracted extension to /home/seb/.vscode/extensions/.f7c40aa8-a9c8-4a08-bc60-c78ae8c872d5: tinkertrain.theme-panda
+2023-06-17 00:07:30.089 [info] Renamed to /home/seb/.vscode/extensions/tinkertrain.theme-panda-1.3.0
+2023-06-17 00:07:30.093 [info] Extracting extension completed. tinkertrain.theme-panda
+2023-06-17 00:07:30.110 [info] Extension installed successfully: tinkertrain.theme-panda
+2023-06-17 00:07:57.089 [info] Getting Manifest... christian-kohler.npm-intellisense
+2023-06-17 00:07:57.098 [info] Installing extension: christian-kohler.npm-intellisense
+2023-06-17 00:07:58.834 [info] Extension signature is verified: christian-kohler.npm-intellisense
+2023-06-17 00:07:58.874 [info] Extracted extension to /home/seb/.vscode/extensions/.89560f03-a80b-4297-8ec6-48d002936fc9: christian-kohler.npm-intellisense
+2023-06-17 00:07:58.886 [info] Renamed to /home/seb/.vscode/extensions/christian-kohler.npm-intellisense-1.4.4
+2023-06-17 00:07:58.889 [info] Extracting extension completed. christian-kohler.npm-intellisense
+2023-06-17 00:07:58.901 [info] Extension installed successfully: christian-kohler.npm-intellisense
+2023-06-17 00:08:14.103 [info] Getting Manifest... christian-kohler.path-intellisense
+2023-06-17 00:08:14.118 [info] Installing extension: christian-kohler.path-intellisense
+2023-06-17 00:08:15.680 [info] Extension signature is verified: christian-kohler.path-intellisense
+2023-06-17 00:08:15.742 [info] Extracted extension to /home/seb/.vscode/extensions/.335530bb-f03a-44fa-b60e-ead56b18dc1c: christian-kohler.path-intellisense
+2023-06-17 00:08:15.752 [info] Renamed to /home/seb/.vscode/extensions/christian-kohler.path-intellisense-2.8.4
+2023-06-17 00:08:15.753 [info] Extracting extension completed. christian-kohler.path-intellisense
+2023-06-17 00:08:15.760 [info] Extension installed successfully: christian-kohler.path-intellisense
+2023-06-17 00:08:53.746 [info] Getting Manifest... formulahendry.auto-rename-tag
+2023-06-17 00:08:53.751 [info] Installing extension: formulahendry.auto-rename-tag
+2023-06-17 00:08:54.862 [info] Getting Manifest... formulahendry.auto-close-tag
+2023-06-17 00:08:54.869 [info] Installing extension: formulahendry.auto-close-tag
+2023-06-17 00:08:55.486 [info] Extension signature is verified: formulahendry.auto-rename-tag
+2023-06-17 00:08:55.523 [info] Extracted extension to /home/seb/.vscode/extensions/.84cd0219-0551-460e-9d17-e658428da674: formulahendry.auto-rename-tag
+2023-06-17 00:08:55.532 [info] Renamed to /home/seb/.vscode/extensions/formulahendry.auto-rename-tag-0.1.10
+2023-06-17 00:08:55.534 [info] Extracting extension completed. formulahendry.auto-rename-tag
+2023-06-17 00:08:55.542 [info] Extension installed successfully: formulahendry.auto-rename-tag
+2023-06-17 00:08:56.084 [info] Getting Manifest... formulahendry.auto-complete-tag
+2023-06-17 00:08:56.089 [info] Installing extension: formulahendry.auto-complete-tag
+2023-06-17 00:08:56.479 [info] Getting Manifest... formulahendry.auto-rename-tag
+2023-06-17 00:08:56.485 [info] Getting Manifest... formulahendry.auto-close-tag
+2023-06-17 00:08:56.499 [info] Extension signature is verified: formulahendry.auto-close-tag
+2023-06-17 00:08:56.554 [info] Waiting for already requested installing extension formulahendry.auto-close-tag formulahendry.auto-complete-tag
+2023-06-17 00:08:56.638 [info] Extracted extension to /home/seb/.vscode/extensions/.871a5b80-8d0a-4bea-a526-97a5f23c2a0a: formulahendry.auto-close-tag
+2023-06-17 00:08:56.648 [info] Renamed to /home/seb/.vscode/extensions/formulahendry.auto-close-tag-0.5.14
+2023-06-17 00:08:56.651 [info] Extracting extension completed. formulahendry.auto-close-tag
+2023-06-17 00:08:56.661 [info] Extension installed successfully: formulahendry.auto-close-tag
+2023-06-17 00:08:56.662 [info] Finished waiting for already requested installing extension formulahendry.auto-close-tag formulahendry.auto-complete-tag
+2023-06-17 00:08:57.920 [info] Extension signature is verified: formulahendry.auto-complete-tag
+2023-06-17 00:08:57.928 [info] Extracted extension to /home/seb/.vscode/extensions/.dc0fec67-c17e-4fbd-bc87-099d1598a14a: formulahendry.auto-complete-tag
+2023-06-17 00:08:57.941 [info] Renamed to /home/seb/.vscode/extensions/formulahendry.auto-complete-tag-0.1.0
+2023-06-17 00:08:57.945 [info] Extracting extension completed. formulahendry.auto-complete-tag
+2023-06-17 00:08:57.963 [info] Extension installed successfully: formulahendry.auto-complete-tag
+2023-06-17 00:09:04.359 [info] Getting Manifest... astro-build.astro-vscode
+2023-06-17 00:09:04.371 [info] Installing extension: astro-build.astro-vscode
+2023-06-17 00:09:06.852 [info] Extension signature is verified: astro-build.astro-vscode
+2023-06-17 00:09:07.345 [info] Extracted extension to /home/seb/.vscode/extensions/.3f709905-9701-406e-ab10-73a8972a03d4: astro-build.astro-vscode
+2023-06-17 00:09:07.356 [info] Renamed to /home/seb/.vscode/extensions/astro-build.astro-vscode-2.0.18-linux-x64
+2023-06-17 00:09:07.357 [info] Extracting extension completed. astro-build.astro-vscode
+2023-06-17 00:09:07.366 [info] Extension installed successfully: astro-build.astro-vscode
+2023-06-17 00:09:42.711 [info] Getting Manifest... timonwong.shellcheck
+2023-06-17 00:09:42.722 [info] Installing extension: timonwong.shellcheck
+2023-06-17 00:09:43.626 [info] Getting Manifest... foxundermoon.shell-format
+2023-06-17 00:09:43.636 [info] Installing extension: foxundermoon.shell-format
+2023-06-17 00:09:44.822 [info] Extension signature is verified: timonwong.shellcheck
+2023-06-17 00:09:44.974 [info] Extracted extension to /home/seb/.vscode/extensions/.a1025ebc-8580-4cf2-9ab3-aa230a218621: timonwong.shellcheck
+2023-06-17 00:09:44.984 [info] Renamed to /home/seb/.vscode/extensions/timonwong.shellcheck-0.32.6-linux-x64
+2023-06-17 00:09:44.985 [info] Extracting extension completed. timonwong.shellcheck
+2023-06-17 00:09:44.994 [info] Extension installed successfully: timonwong.shellcheck
+2023-06-17 00:09:45.273 [info] Extension signature is verified: foxundermoon.shell-format
+2023-06-17 00:09:45.288 [info] Extracted extension to /home/seb/.vscode/extensions/.dcc918d3-47a1-49f5-9a52-daff80b2d4e6: foxundermoon.shell-format
+2023-06-17 00:09:45.292 [info] Renamed to /home/seb/.vscode/extensions/foxundermoon.shell-format-7.2.5
+2023-06-17 00:09:45.294 [info] Extracting extension completed. foxundermoon.shell-format
+2023-06-17 00:09:45.304 [info] Extension installed successfully: foxundermoon.shell-format
+2023-06-17 00:10:07.635 [info] Getting Manifest... k--kato.intellij-idea-keybindings
+2023-06-17 00:10:07.650 [info] Installing extension: k--kato.intellij-idea-keybindings
+2023-06-17 00:10:09.340 [info] Extension signature is verified: k--kato.intellij-idea-keybindings
+2023-06-17 00:10:09.394 [info] Extracted extension to /home/seb/.vscode/extensions/.2fb83b54-3394-444f-8460-835efe83a19a: k--kato.intellij-idea-keybindings
+2023-06-17 00:10:09.404 [info] Renamed to /home/seb/.vscode/extensions/k--kato.intellij-idea-keybindings-1.5.9
+2023-06-17 00:10:09.406 [info] Extracting extension completed. k--kato.intellij-idea-keybindings
+2023-06-17 00:10:09.415 [info] Extension installed successfully: k--kato.intellij-idea-keybindings

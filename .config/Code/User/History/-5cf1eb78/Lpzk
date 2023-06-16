@@ -1,0 +1,16 @@
+/*
+
+# dirs
+!.config/
+.config/*
+!.config/alacritty/*
+!.config/Code/*
+!.slimzsh/
+!.scripts/
+
+# files
+!.gitmodules
+!.gitignore
+!.zshrc
+!install.sh
+!README.md
