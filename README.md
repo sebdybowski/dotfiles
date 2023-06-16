@@ -8,5 +8,5 @@ cd ~ && git clone https://github.com/sebdybowski/dotfiles.git ./
 ```
 
 # Scripts
-If you only want to use my scripts without the dotfiles, find them in (this repository)[https://github.com/sebdybowski/scripts].
+If you only want to use my scripts without the dotfiles, find them in [this repository](https://github.com/sebdybowski/scripts).
 
