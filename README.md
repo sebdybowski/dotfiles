@@ -2,7 +2,7 @@
 Set of configs and scripts I use on Linux & MacOS.
 
 # Usage
-This comman will clone files into your **home/user directory**.
+This command will clone files into your **home/user directory**.
 ```bash
 cd ~ && git clone https://github.com/sebdybowski/dotfiles.git ./
 ```
