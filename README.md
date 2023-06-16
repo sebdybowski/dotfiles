@@ -4,7 +4,11 @@ Set of configs and scripts I use on Linux & MacOS.
 # Usage
 This command will clone files into your **home/user directory**.
 ```bash
-cd ~ && git clone https://github.com/sebdybowski/dotfiles.git ./
+bash -c  "$(wget -qO- https://raw.githubusercontent.com/sebdybowski/dotfiles/main/install.sh)"
+```
+
+```bash
+bash -c  "$(curl -sLo- https://raw.githubusercontent.com/sebdybowski/dotfiles/main/install.sh)"
 ```
 
 # Scripts
