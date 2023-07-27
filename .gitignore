@@ -4,6 +4,7 @@
 !.config/
 .config/*
 !.config/alacritty
+!.config/kitty
 !.slimzsh/
 !.scripts/
 
