@@ -1,6 +1,10 @@
 # Seb Dybowski's dotfiles
 Set of configs and scripts I use on Linux & MacOS.
 
+# Prerequisites
+- fonts: `Hack`
+- packages: `git`, `nvm`
+
 # Installation
 
 This command will clone files into your **home/user directory**.
