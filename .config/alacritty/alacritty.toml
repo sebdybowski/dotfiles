@@ -1,8 +1,15 @@
+[general]
+import = [
+    "~/.config/alacritty/themes/themes/catppuccin_macchiato.toml"
+]
+
 [window]
 padding = { x = 10, y = 10 }
 dynamic_padding = true
 opacity = 0.9
+blur = true
 
 [font]
 normal = { family = "Hack", style = "Regular" }
-size = 16
+size = 20
+
