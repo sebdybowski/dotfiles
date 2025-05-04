@@ -7,6 +7,7 @@
 !.config/kitty
 !.slimzsh/
 !.scripts/
+!.nvm
 
 # files
 !.gitmodules
