@@ -4,6 +4,7 @@
 [submodule ".slimzsh"]
 	path = .slimzsh
 	url = https://github.com/changs/slimzsh.git
+	ignore = dirty
 [submodule ".config/alacritty/themes"]
 	path = .config/alacritty/themes
 	url = https://github.com/alacritty/alacritty-theme.git
