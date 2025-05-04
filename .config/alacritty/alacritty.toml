@@ -1,7 +1,5 @@
 [general]
-import = [
-    "~/.config/alacritty/themes/themes/catppuccin_macchiato.toml"
-]
+import = ["~/.config/alacritty/themes/themes/aura.toml"]
 
 [window]
 padding = { x = 10, y = 10 }
